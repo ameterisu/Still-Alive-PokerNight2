@@ -1,0 +1,10 @@
+{
+  "name": "Still Alive (Portal)",
+  "description": "Still Alive from Poker Night 2. Track composed by Jared Emerson-Johnson. Developed and published by Telltale Games.",
+  "author": "ameterisu",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
